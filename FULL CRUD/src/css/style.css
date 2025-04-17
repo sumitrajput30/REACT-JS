@@ -1,0 +1,36 @@
+
+#footer
+{
+    width: 100%;
+    padding: 20px;
+    background-color: lightblue;
+    margin-top: 30px;
+}
+
+#myfrm
+{
+    width: 400px;
+    margin: auto;
+}
+
+#searchdata
+{
+    width: 500px;
+    padding: 30px;
+    border-radius: 20px;
+    border: 3px solid lightblue;
+}
+
+.delIcon
+{
+    color: red;
+    font-size: 25px;
+    cursor: pointer;
+}
+
+.editIcon
+{
+    color: rgb(51, 45, 237);
+    font-size: 25px;
+    cursor: pointer;
+}
