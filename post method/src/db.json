@@ -1,0 +1,42 @@
+{
+  "student": [
+    {
+      "id": "456",
+      "rollno": "121",
+      "name": "Sumit",
+      "city": "bhopal",
+      "fees": "45000"
+    },
+    {
+      "id": "a925",
+      "undefined": "0",
+      "rollno": "12",
+      "name": "hk",
+      "city": "BHOPAL",
+      "fees": "012"
+    },
+    {
+      "id": "8f86",
+      "undefined": "0",
+      "rollno": "12",
+      "name": "hk",
+      "city": "BHOPAL",
+      "fees": "012"
+    },
+    {
+      "id": "c3cd",
+      "undefined": "0",
+      "rollno": "12",
+      "name": "hk",
+      "city": "BHOPAL",
+      "fees": "012"
+    },
+    {
+      "id": "1dbf",
+      "rollno": "s",
+      "name": "s",
+      "city": "s",
+      "fees": "s"
+    }
+  ]
+}
